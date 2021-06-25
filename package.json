@@ -21,6 +21,7 @@
   "homepage": "https://github.com/hellokedakai/food-festival#readme",
   "devDependencies": {
     "webpack": "^4.46.0",
+    "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
