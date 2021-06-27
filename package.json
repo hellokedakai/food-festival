@@ -6,7 +6,7 @@
     "webpack": "webpack --watch",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "webpack-dev-server"
+    "start:dev": "webpack serve"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/hellokedakai/food-festival#readme",
   "devDependencies": {
     "file-loader": "^6.2.0",
-    "webpack": "^4.46.0",
+    "webpack": "^5.40.0",
     "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
